@@ -42,7 +42,7 @@
               <label for="job_title">Functie:</label>
               <input type="text" class="form-control" name="job_title"/>
           </div>
-          <button type="submit" class="btn btn-primary-outline">Toevoegen</button>
+          <button type="submit" class="btn btn-primary">Toevoegen</button>
       </form>
   </div>
 </div>
